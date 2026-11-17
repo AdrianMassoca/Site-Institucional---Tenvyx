@@ -21,7 +21,7 @@ onMounted(() => {
   <SiteHeader />
   <main>
     <HeroSection />
-    <div class="signal-strip" aria-label="Áreas de atuação">
+    <div class="signal-strip" aria-hidden="true">
       <div class="signal-track">
         <span>SOFTWARE SOB MEDIDA</span><i></i><span>INTELIGÊNCIA OPERACIONAL</span><i></i><span>APLICAÇÕES WEB</span><i></i><span>INTEGRAÇÃO DE SISTEMAS</span><i></i>
         <span>SOFTWARE SOB MEDIDA</span><i></i><span>INTELIGÊNCIA OPERACIONAL</span><i></i><span>APLICAÇÕES WEB</span><i></i><span>INTEGRAÇÃO DE SISTEMAS</span><i></i>
